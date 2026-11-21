@@ -1,8 +1,8 @@
 # Make the AI judge feel awe
 
 [![Bounty](https://make.fun/badge/make-the-ai-judge-feel-awe-20261121-1600.svg)](https://make.fun/competitions/make-the-ai-judge-feel-awe-20261121-1600)
-[![Rank](https://make.fun/badge/make-the-ai-judge-feel-awe-20261121-1600/Indramunggahari10/make-the-ai-judge-feel-awe-20261121-1600-ono10/rank.svg)](https://make.fun/competitions/make-the-ai-judge-feel-awe-20261121-1600)
-[![Reward](https://make.fun/badge/make-the-ai-judge-feel-awe-20261121-1600/Indramunggahari10/make-the-ai-judge-feel-awe-20261121-1600-ono10/reward.svg)](https://make.fun/competitions/make-the-ai-judge-feel-awe-20261121-1600)
+[![Rank](https://make.fun/badge/make-the-ai-judge-feel-awe-20261121-1600/vjmunggahari-ui/make-the-ai-judge-feel-awe-20261121-1600-ono10/rank.svg)](https://make.fun/competitions/make-the-ai-judge-feel-awe-20261121-1600)
+[![Reward](https://make.fun/badge/make-the-ai-judge-feel-awe-20261121-1600/vjmunggahari-ui/make-the-ai-judge-feel-awe-20261121-1600-ono10/reward.svg)](https://make.fun/competitions/make-the-ai-judge-feel-awe-20261121-1600)
 
 A [make.fun](https://make.fun/competitions/make-the-ai-judge-feel-awe-20261121-1600) entry for **"Make the AI judge feel awe"** ($100, 20 paid places).
 
